@@ -15,7 +15,7 @@ include __DIR__ . '/includes/header.php';
       <div class="mini-stats">
         <div><strong>12+</strong><span>Systems built</span></div>
         <div><strong>4-step</strong><span>Build sprint</span></div>
-        <div><strong>90 days</strong><span>To launch</span></div>
+        <div><strong>90 days</strong><span>To build</span></div>
       </div>
     </div>
 
