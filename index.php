@@ -5,7 +5,7 @@ include __DIR__ . '/includes/header.php';
 <section class="hero">
   <div class="wrap hero-grid">
     <div class="hero-copy">
-      <p class="eyebrow">Revenue systems for B2B teams</p>
+      <p class="eyebrow">Revenue systems</p>
       <h1>Turn your funnel into a <span class="highlight">predictable revenue engine.</span></h1>
       <p class="lead">Aarna Systems helps growing B2B companies design the systems, automations, and reporting stack that turn marketing activity into measurable pipeline and revenue.</p>
       <div class="cta-row">
